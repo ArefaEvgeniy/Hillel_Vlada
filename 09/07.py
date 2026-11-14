@@ -13,3 +13,6 @@ print(next(a))
 
 # for item in a:
 #     print(item)
+#  Tkinter
+#  SQlite
+#  Flask
